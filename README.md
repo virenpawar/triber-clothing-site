@@ -1,2 +1,2 @@
-# triber-home-page
+# triber-clothing-site
 https://triber.clothing — Site coming soon.
